@@ -1,0 +1,10 @@
+# smart_typer.py 依赖
+pyautogui
+pyperclip
+pynput
+
+# cdp_typer.py 依赖
+playwright
+
+# 打包（可选）
+# pyinstaller
